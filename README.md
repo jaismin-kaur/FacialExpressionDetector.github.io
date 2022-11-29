@@ -6,7 +6,7 @@
 
 ## General Information
 
-- The software is used to cover the face of a person with recognizable emotions from the live feed of the camera
+- The software is used to recognize the emotional state of a person by emojis. 
 - This is achieved by covering the face with emojis depending on the emotions
 - The project thus includes two major sections "Face Detection" and "Facial Emotion Recognition"
 - Software also includes features like place confidence and prediction indicators and recording the video
